@@ -2,96 +2,112 @@
     {
         "name":"Clouds",
         "cover":"1",
+        "track":"Clouds.mp3",
         "releaseDate":"26.09.2020",
         "released":true
     },
     {
         "name":"79%",
         "cover":"2",
+        "track":"79%.mp3",
         "releaseDate":"28.09.2020",
         "released":true
     },
     {
         "name":"Space Dream",
         "cover":"3",
+        "track":"Space Dream.mp3",
         "releaseDate":"03.10.2020",
         "released":true
     },
     {
         "name":"S.A.U.W. Soundtrack",
         "cover":"4",
+        "track":"SAUW Soundtrack.mp3",
         "releaseDate":"10.10.2020",
         "released":true
     },
     {
         "name":"Infinity",
         "cover":"5",
+        "track":"Infinity.mp3",
         "releaseDate":"10.10.2020",
         "released":true
     },
     {
         "name":"Dawn",
         "cover":"6",
+        "track":"Dawn.mp3",
         "releaseDate":"18.10.2020",
         "released":true
     },
     {
         "name":"Sunset",
         "cover":"7",
+        "track":"Sunset.mp3",
         "releaseDate":"18.10.2020",
         "released":true
     },
     {
         "name":"Snow",
         "cover":"8",
+        "track":"Snow.mp3",
         "releaseDate":"23.10.2020",
         "released":true
     },
     {
         "name":"Mountains",
         "cover":"9",
+        "track":"Mountains.mp3",
         "releaseDate":"8.11.2020",
         "released":true
     },
     {
         "name":"? 2.0",
         "cover":"10",
+        "track":"What 2.0.mp3",
         "releaseDate":"14.11.2020",
         "released":true
     },
     {
         "name":"Sunset 2.0",
         "cover":"11",
+        "track":"Sunset 2.0.mp3",
         "releaseDate":"19.11.2020",
         "released":true
     },
     {
         "name":"Texas",
         "cover":"12",
+        "track":"Texas.mp3",
         "releaseDate":"28.11.2020",
         "released":true
     },
     {
         "name":"Acoustic I",
         "cover":"13",
+        "track":"Acoustic I.mp3",
         "releaseDate":"26.01.2021",
         "released":true
     },
     {
         "name":"SEA",
         "cover":"14",
+        "track":"SEA.mp3",
         "releaseDate":"14.02.2021",
         "released":true
     },
     {
         "name":"CLOUDS",
         "cover":"15",
+        "track":"CLOUDS_.mp3",
         "releaseDate":"16.02.2021",
         "released":true
     },
     {
         "name":"Лето",
         "cover":"16",
+        "track":"",
         "releaseDate":"12.03.2021",
         "released":false
     }
