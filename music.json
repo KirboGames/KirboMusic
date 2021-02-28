@@ -16,14 +16,14 @@
     {
         "name":"Space Dream",
         "cover":"3",
-        "track":"Space Dream.mp3",
+        "track":"Space_Dream.mp3",
         "releaseDate":"03.10.2020",
         "released":true
     },
     {
         "name":"S.A.U.W. Soundtrack",
         "cover":"4",
-        "track":"SAUW Soundtrack.mp3",
+        "track":"SAUW_Soundtrack.mp3",
         "releaseDate":"10.10.2020",
         "released":true
     },
@@ -65,14 +65,14 @@
     {
         "name":"? 2.0",
         "cover":"10",
-        "track":"What 2.0.mp3",
+        "track":"What_2.0.mp3",
         "releaseDate":"14.11.2020",
         "released":true
     },
     {
         "name":"Sunset 2.0",
         "cover":"11",
-        "track":"Sunset 2.0.mp3",
+        "track":"Sunset_2.0.mp3",
         "releaseDate":"19.11.2020",
         "released":true
     },
@@ -86,7 +86,7 @@
     {
         "name":"Acoustic I",
         "cover":"13",
-        "track":"Acoustic I.mp3",
+        "track":"Acoustic_I.mp3",
         "releaseDate":"26.01.2021",
         "released":true
     },
