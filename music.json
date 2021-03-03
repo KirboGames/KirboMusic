@@ -105,17 +105,17 @@
         "released":true
     },
     {
-        "name":"Лето",
-        "cover":"16",
-        "track":null,
-        "releaseDate":"12.03.2021",
-        "released":false
-    },
-    {
         "name":"Time",
         "cover":"17",
         "track":"Time.mp3",
         "releaseDate":"18.02.2021",
         "released":true
+    },
+    {
+        "name":"Лето",
+        "cover":"16",
+        "track":null,
+        "releaseDate":"12.03.2021",
+        "released":false
     }
 ]
