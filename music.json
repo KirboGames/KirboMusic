@@ -124,5 +124,12 @@
         "track":"Thunder.mp3",
         "releaseDate":"12.03.2021",
         "released":true
+    },
+    {
+        "name":"Moon",
+        "cover":"19",
+        "track":"Moon.mp3",
+        "releaseDate":"02.04.2021",
+        "released":true
     }
 ]
