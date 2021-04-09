@@ -135,8 +135,8 @@
     {
         "name":"Wave",
         "cover":"20",
-        "track":null,
-        "releaseDate":"на этой неделе",
-        "released":false
+        "track":"Wave.mp3",
+        "releaseDate":"09.04.2021",
+        "released":true
     }
 ]
