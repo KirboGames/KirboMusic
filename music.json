@@ -4,139 +4,159 @@
         "cover":"1",
         "track":"Clouds.mp3",
         "releaseDate":"26.09.2020",
-        "released":true
+        "released":true,
+        "about":"Трек Clouds был сделан после так назывемой эпохи \"депрессивной музыки\". Это трек стал началом эпохи новой эпохи, которая называется \"Музыка с обложками\" :D Спасибо DMITRE за обложку"
     },
     {
         "name":"79%",
         "cover":"2",
         "track":"79%.mp3",
         "releaseDate":"28.09.2020",
-        "released":true
+        "released":true,
+        "about":"Этот трек я сделал вдохновившись ремиксом Apashe на трек Макса Коржа \"Малый повзрослел\", Спасибо DMITRE за обложку"
     },
     {
         "name":"Space Dream",
         "cover":"3",
         "track":"Space_Dream.mp3",
         "releaseDate":"03.10.2020",
-        "released":true
+        "released":true,
+        "about":"Даже не знаю что сказать про этот трек. Cпасибо DMITRE за обложку"
     },
     {
         "name":"S.A.U.W. Soundtrack",
         "cover":"4",
         "track":"SAUW_Soundtrack.mp3",
         "releaseDate":"10.10.2020",
-        "released":true
+        "released":true,
+        "about":"Саундтрек для моей игры \"S.A.U.W.\""
     },
     {
         "name":"Infinity",
         "cover":"5",
         "track":"Infinity.mp3",
         "releaseDate":"10.10.2020",
-        "released":true
+        "released":true,
+        "about":"Трек был сделан мной не помню как и когда, но бас тут крутой"
     },
     {
         "name":"Dawn",
         "cover":"6",
         "track":"Dawn.mp3",
         "releaseDate":"18.10.2020",
-        "released":true
+        "released":true,
+        "about":"Сначала я сделал трек Sunset а потом и этот и решил выпустить их в один день :D"
     },
     {
         "name":"Sunset",
         "cover":"7",
         "track":"Sunset.mp3",
         "releaseDate":"18.10.2020",
-        "released":true
+        "released":true,
+        "about":"Про этот трек я могу сказать много чего, во первый это мой первый трек в котором я записывал гитару, во вторых изначально я хотел сделать этот трек для своей будущей игры, но решил его добавть в \"S.A.U.W.\""
     },
     {
         "name":"Snow",
         "cover":"8",
         "track":"Snow.mp3",
         "releaseDate":"23.10.2020",
-        "released":true
+        "released":true,
+        "about":"180 bpm Хммм... ладно этот трек я сделал вдохновившись треком Макса Коржа \"Её виной\""
     },
     {
         "name":"Mountains",
         "cover":"9",
         "track":"Mountains.mp3",
         "releaseDate":"8.11.2020",
-        "released":true
+        "released":true,
+        "about":"Самый крутой трек как по мне."
     },
     {
         "name":"? 2.0",
         "cover":"10",
         "track":"What_2.0.mp3",
         "releaseDate":"14.11.2020",
-        "released":true
+        "released":true,
+        "about":"Это трек в котором есть гитара юхууууу, иногда мне кажется что мои ранние треки были лучше)"
     },
     {
         "name":"Sunset 2.0",
         "cover":"11",
         "track":"Sunset_2.0.mp3",
         "releaseDate":"19.11.2020",
-        "released":true
+        "released":true,
+        "about":"Спустя месяц после выхода первой версии трека Sunset я решил сделать улучшенную версию, но потом понял что сделал только хуже :D"
     },
     {
         "name":"Texas",
         "cover":"12",
         "track":"Texas.mp3",
         "releaseDate":"28.11.2020",
-        "released":true
+        "released":true,
+        "about":"Хоть Mountains и крутой трек но этот круче."
     },
     {
         "name":"Acoustic I",
         "cover":"13",
         "track":"Acoustic_I.mp3",
         "releaseDate":"26.01.2021",
-        "released":true
+        "released":true,
+        "about":"Спустя долгое время я захотел сделать новый трек но мне хотелось сделать что-то простое."
     },
     {
         "name":"SEA",
         "cover":"14",
         "track":"SEA.mp3",
         "releaseDate":"14.02.2021",
-        "released":true
+        "released":true,
+        "about":"Спустя почти месяц после выхода последнего трека я решил сделать что-то похожее на треки с эпохи \"депрессивной музыки\""
     },
     {
         "name":"CLOUDS",
         "cover":"15",
         "track":"CLOUDS_.mp3",
         "releaseDate":"16.02.2021",
-        "released":true
+        "released":true,
+        "about":"Изначально это был бит который я хотел по приколу отправить GONE.Fludd'у но потом решил выпустить."
     },
     {
         "name":"Time",
         "cover":"17",
         "track":"Time.mp3",
         "releaseDate":"18.02.2021",
-        "released":true
+        "released":true,
+        "about":"Так стоп это разве не трек с эпохи \"депрессивной музыки\", да это он но не совсем, это его доработанная версия (Кроме мелодии баса практически ничего не поменял)"
     },
     {
         "name":"Лето",
         "cover":"16",
         "track":"Лето.mp3",
         "releaseDate":"12.03.2021",
-        "released":true
+        "released":true,
+        "about":"Так, а это моя первая песня, именно из-за этой песни треки выходили редко"
     },
     {
         "name":"Thunder",
         "cover":"18",
         "track":"Thunder.mp3",
         "releaseDate":"12.03.2021",
-        "released":true
+        "released":true,
+        "about":"А это трек в котором я использовал луп за основу, впервые за всё время создания музыки"
     },
     {
         "name":"Moon",
         "cover":"19",
         "track":"Moon.mp3",
         "releaseDate":"02.04.2021",
-        "released":true
+        "released":true,
+        "about":"Так стоп этот трек вышел вообще?"
     },
     {
         "name":"Wave",
         "cover":"20",
         "track":"Wave.mp3",
         "releaseDate":"09.04.2021",
-        "released":true
+        "released":true,
+        "about":"По моему это самый лучший трек за все время (по крайней мере сейчас)))"
     }
 ]
