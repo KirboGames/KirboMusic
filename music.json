@@ -238,5 +238,17 @@
         "Youtube":"https://youtu.be/LV6DqgdJz28",
         "VK":"https://vk.com/music/playlist/494172400_42",
         "Spotify":""
+    },
+    {
+        "name":"Era of depressive music",
+        "cover":"21",
+        "track":"",
+        "releaseDate":"18.04.2021",
+        "released":false,
+        "about":"Что?",
+        "Telegram":"",
+        "Youtube":"",
+        "VK":"",
+        "Spotify":""
     }
 ]
