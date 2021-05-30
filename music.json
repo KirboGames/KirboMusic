@@ -242,13 +242,25 @@
     {
         "name":"Era Of Depressive Music",
         "cover":"21",
-        "track":"",
+        "track":"EraOfDepressiveMusic.mp3",
         "releaseDate":"18.04.2021",
         "released":true,
         "about":"Что?",
         "Telegram":"https://t.me/Kirbo_official/83",
         "Youtube":"https://youtu.be/gWTF6ySx5Uk",
         "VK":"https://vk.com/music/playlist/494172400_47_4cd6439dbec32940a7",
+        "Spotify":""
+    },
+    {
+        "name":"Synth",
+        "cover":"22",
+        "track":"Synth.mp3",
+        "releaseDate":"12.05.2021",
+        "released":true,
+        "about":"Новый трек.",
+        "Telegram":"",
+        "Youtube":"https://youtu.be/cUku8-a10j8",
+        "VK":"https://vk.com/music/playlist/494172400_48_6a2fce1f5a2923615b",
         "Spotify":""
     }
 ]
