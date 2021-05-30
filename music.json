@@ -262,5 +262,17 @@
         "Youtube":"https://youtu.be/cUku8-a10j8",
         "VK":"https://vk.com/music/playlist/494172400_48_6a2fce1f5a2923615b",
         "Spotify":""
+    },
+    {
+        "name":"Some Noise",
+        "cover":"23",
+        "track":"SomeNoise/",
+        "releaseDate":"30.05.2021",
+        "released":true,
+        "about":"Альбом",
+        "Telegram":"https://t.me/Kirbo_official/87",
+        "Youtube":"",
+        "VK":"https://vk.com/music/playlist/494172400_50_70d0a9712301d0c979",
+        "Spotify":""
     }
 ]
