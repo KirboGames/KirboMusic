@@ -274,5 +274,17 @@
         "Youtube":"",
         "VK":"https://vk.com/music/playlist/494172400_50_70d0a9712301d0c979",
         "Spotify":""
+    },
+    {
+        "name":"Forest",
+        "cover":"24",
+        "track":"Forest.mp3",
+        "releaseDate":"13.06.2021",
+        "released":true,
+        "about":"Трек Acoustic II",
+        "Telegram":"",
+        "Youtube":"",
+        "VK":"",
+        "Spotify":""
     }
 ]
