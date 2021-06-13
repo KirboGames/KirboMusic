@@ -192,18 +192,6 @@
         "Spotify":"https://open.spotify.com/album/5LPK4ND67rFwGs8NhwzOkc?si=XUABL02HToO2kYTZANEqpA"
     },
     {
-        "name":"Лето",
-        "cover":"16",
-        "track":"Лето.mp3",
-        "releaseDate":"12.03.2021",
-        "released":true,
-        "about":"Так, а это моя первая песня, именно из-за этой песни треки выходили редко",
-        "Telegram":"https://t.me/Kirbo_official/67",
-        "Youtube":"https://youtu.be/lJ1Y5zmzmo8",
-        "VK":"",
-        "Spotify":""
-    },
-    {
         "name":"Thunder",
         "cover":"18",
         "track":"Thunder.mp3",
@@ -282,9 +270,9 @@
         "releaseDate":"13.06.2021",
         "released":true,
         "about":"Трек Acoustic II",
-        "Telegram":"",
+        "Telegram":"https://t.me/Kirbo_official/91",
         "Youtube":"",
-        "VK":"",
+        "VK":"https://vk.com/music/playlist/494172400_51_2f82d1074f861b38ce",
         "Spotify":""
     }
 ]
