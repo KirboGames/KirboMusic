@@ -274,5 +274,17 @@
         "Youtube":"",
         "VK":"https://vk.com/music/playlist/494172400_51_2f82d1074f861b38ce",
         "Spotify":""
+    },
+    {
+        "name":"Dark 2.0",
+        "cover":"25",
+        "track":"Dark_2.0.mp3",
+        "releaseDate":"14.06.2021",
+        "released":true,
+        "about":"EraOfDepressiveMusic?",
+        "Telegram":"https://t.me/c/1285869190/171",
+        "Youtube":"",
+        "VK":"https://vk.com/music/playlist/494172400_52_f18159334bdac380c7",
+        "Spotify":""
     }
 ]
